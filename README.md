@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Caitlin Sherman</h1>
+<h1 align="center">Hi 👋, I'm Caitlin!</h1>
 <h3 align="center">A software engineer in Philadelphia</h3>
 
-- 🔭 Past projects: [Creature Coders](http://creature-coders.herokuapp.com/)
+- 🔭 Past projects: [Creature Coders](http://creature-coders.herokuapp.com/) [Bell's Custom Worx](https://bells-custom-worx.herokuapp.com/)
 
-- 📫 How to reach me **caitlinpsherman@gmail.com**
+- 🛠 Projects in progress: [Pictures Drawn Poorly](http://creature-coders.herokuapp.com/)
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/13ATVdZlTHTX4i5DFH5TsONeAJCkPt5ke0XY5Ex0Kr0g/edit?usp=sharing](https://docs.google.com/document/d/13ATVdZlTHTX4i5DFH5TsONeAJCkPt5ke0XY5Ex0Kr0g/edit?usp=sharing)
+- 📫 How to reach me: **caitlinpsherman@gmail.com**
 
-- ⚡ Fun fact **When I'm not coding I'm usually spoiling my two cats, outside birdwatching, or forgetting a mug of tea somewhere in my home.**
+- 📄 Check out my [resume] (https://docs.google.com/document/d/13ATVdZlTHTX4i5DFH5TsONeAJCkPt5ke0XY5Ex0Kr0g/edit?usp=sharing)
+
+- ⚡ Fun fact: **When I'm not coding I'm usually spoiling my two cats, outside birdwatching, or forgetting a mug of tea somewhere in my home.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
