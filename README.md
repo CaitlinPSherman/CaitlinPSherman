@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Caitlin!</h1>
 <h3 align="center">A software engineer in Philadelphia</h3>
 
+- 📸 About me: I'm a clothing designer turned software engineer, and I graduated from the Grace Hopper Program at Fullstack Academy in May of 2022. I'm excited to join a collaborative team that's working to make the world a better place!
+
 - 🔭 Past projects: [Creature Coders](http://creature-coders.herokuapp.com/) [Bell's Custom Worx](https://bells-custom-worx.herokuapp.com/)
 
 - 🛠 Projects in progress: [Pictures Drawn Poorly](http://creature-coders.herokuapp.com/)
 
 - 📫 How to reach me: **caitlinpsherman@gmail.com**
 
-- 📄 Check out my [resume] (https://docs.google.com/document/d/13ATVdZlTHTX4i5DFH5TsONeAJCkPt5ke0XY5Ex0Kr0g/edit?usp=sharing)
+- 📄 Check out my [resume](https://docs.google.com/document/d/13ATVdZlTHTX4i5DFH5TsONeAJCkPt5ke0XY5Ex0Kr0g/edit?usp=sharing)
 
 - ⚡ Fun fact: **When I'm not coding I'm usually spoiling my two cats, outside birdwatching, or forgetting a mug of tea somewhere in my home.**
 
