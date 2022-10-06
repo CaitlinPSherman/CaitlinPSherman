@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caitlin!</h1>
-<h3 align="center">A software engineer in Philadelphia</h3>
+<h3 align="center">Software engineer in Philly specializing in the PERN stack</h3>
 
 - 📸 About me: I'm a clothing designer turned software engineer, and I graduated from the Grace Hopper Program at Fullstack Academy in May of 2022. I'm excited to join a collaborative team that's working to make the world a better place!
 
