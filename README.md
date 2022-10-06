@@ -11,6 +11,8 @@
 
 - 📄 Check out my [resume](https://docs.google.com/document/d/13ATVdZlTHTX4i5DFH5TsONeAJCkPt5ke0XY5Ex0Kr0g/edit?usp=sharing)
 
+- 🫅 Pronouns: she/her
+
 - ⚡ Fun fact: **When I'm not coding I'm usually spoiling my two cats, outside birdwatching, or forgetting a mug of tea somewhere in my home.**
 
 <h3 align="left">Connect with me:</h3>
